@@ -29,7 +29,7 @@ client.on("message", message => {
       .setColor("RANDOM")
       .addField("『:gem: BlaCko Bot:gem: 』 『اسم البوت』", true)
       
-      .addField("『:innocent: مصمم البوت :innocent: Ahmed_BlaCko#9170 :innocent: 』", true)
+      .addField("『:innocent: مصمم البوت :innocent: Ahmed_BlaCko#7232 :innocent: 』", true)
       
       .addField("『:envelope_with_arrow: تم ارسال الاوامر في الخاص:envelope_with_arrow: 』😵", true )
   message.channel.sendMessage({embed});
